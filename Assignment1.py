@@ -116,7 +116,7 @@ class Elephant(Animal):
 
 
 if __name__ == "__main__":
-    dog = Dog('Cheema', 20)
+    dog = Dog('Chaudhray', 20)
     elephant = Elephant("Asghar", 2)
     lion = Lion("Nomi Bhai", 22)
     print(lion.make_sound())
